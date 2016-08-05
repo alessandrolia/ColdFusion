@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+NumberFormat_v2(number=$1 , fix=0, [sepMigliaia=true, SepDecimalChar=","]) //application.lib_str.
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>numberformat_</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

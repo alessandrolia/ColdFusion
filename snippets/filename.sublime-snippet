@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[$TM_FILENAME]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>FN</tabTrigger>
+	<description>Insert file name</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+.getInstanceOf(key="$1", isSingleton=ist).init(globals=my.globals, dbprop=my.dbprop);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>.getI</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
